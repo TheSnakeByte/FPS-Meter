@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 79.374996 79.375002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="speedometer-main.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="41.02429"
+     inkscape:cy="173.61004"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:6.11503px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.37172;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="39.472519"
+       y="10.10979"
+       id="text9872"><tspan
+         sodipodi:role="line"
+         id="tspan9870"
+         style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.37172"
+         x="39.472519"
+         y="10.10979">150</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.11503px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.37172;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="70.474144"
+       y="41.826866"
+       id="text9872-2"><tspan
+         sodipodi:role="line"
+         id="tspan9870-9"
+         style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.37172"
+         x="70.474144"
+         y="41.826866">300</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.11503px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.37172;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="5.9015951"
+       y="41.826866"
+       id="text9872-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan9870-9-5"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.37172"
+         x="5.9015951"
+         y="41.826866">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.11503px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.37172;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="17.286633"
+       y="19.958149"
+       id="text9872-2-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan9870-9-5-4"
+         style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.37172"
+         x="17.286633"
+         y="19.958149">75</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6600ff;stroke-width:1.4916;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path353"
+       sodipodi:type="arc"
+       sodipodi:cx="39.158333"
+       sodipodi:cy="43.767548"
+       sodipodi:rx="37.340641"
+       sodipodi:ry="40.447422"
+       sodipodi:start="3.1415927"
+       sodipodi:end="6.2831853"
+       sodipodi:arc-type="slice"
+       d="M 1.8176918,43.767548 A 37.340641,40.447422 0 0 1 39.158333,3.3201256 37.340641,40.447422 0 0 1 76.498974,43.767548 H 39.158333 Z" />
+  </g>
+</svg>
